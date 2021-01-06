@@ -6,6 +6,6 @@
 
 - [x] Stage 1: Chatty Bot welcomes you
 - [x] Stage 2: Print your name
-- [ ] Stage 3: Guess the age
+- [x] Stage 3: Guess the age
 - [ ] Stage 4: Learning numbers
 - [ ] Stage 5: Multiple choice
