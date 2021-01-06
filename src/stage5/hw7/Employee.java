@@ -1,4 +1,4 @@
-package stage4.hw7;
+package stage5.hw7;
 
 class Employee {
 

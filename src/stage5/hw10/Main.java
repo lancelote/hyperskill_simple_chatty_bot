@@ -1,4 +1,4 @@
-package stage4.hw10;
+package stage5.hw10;
 
 import java.util.Scanner;
 import java.util.Locale;

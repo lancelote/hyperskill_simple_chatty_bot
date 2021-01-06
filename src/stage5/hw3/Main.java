@@ -1,4 +1,4 @@
-package stage4.hw3;
+package stage5.hw3;
 
 public class Main {
     public static void toString(long num) {

@@ -1,4 +1,4 @@
-package stage4.hw6;
+package stage5.hw6;
 
 class Movie {
     private String title;

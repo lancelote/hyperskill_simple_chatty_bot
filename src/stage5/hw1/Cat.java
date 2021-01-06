@@ -1,4 +1,4 @@
-package stage4.hw1;
+package stage5.hw1;
 
 class Cat {
 

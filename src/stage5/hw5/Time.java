@@ -1,4 +1,4 @@
-package stage4.hw5;
+package stage5.hw5;
 
 public class Time {
 

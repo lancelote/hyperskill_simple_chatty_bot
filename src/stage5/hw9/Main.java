@@ -1,4 +1,4 @@
-package stage4.hw9;
+package stage5.hw9;
 
 class MagicNumber {
 
